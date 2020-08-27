@@ -14,3 +14,7 @@
 * ethical-hacking-cheatsheet-3 : [NMAP][EH-3] !
 
 [EH-3]: https://stationx-public-download.s3.us-west-2.amazonaws.com/nmap_cheet_sheet_v7.pdf
+
+* ethical-hacking-cheatsheet-4 : [Metasploit][EH-4] !
+
+[EH-4]: https://stationx-public-download.s3.us-west-2.amazonaws.com/Metasploit-cheat-sheet.pdf
