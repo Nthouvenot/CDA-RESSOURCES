@@ -1,3 +1,9 @@
+---
+layout: default
+tilte: Video cours Mickaël
+permalink: /video/cours_mickael
+---
+
 # Liens des vidéos
 Cette section regroupera les liens des vidéos enregistrées pendant les cours avec Mickael  
 **Merci de créer un titre de thème (de niveau 2) s'il n'existe pas déjà**

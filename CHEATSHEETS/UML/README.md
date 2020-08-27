@@ -1,3 +1,9 @@
+---
+layout: default
+tilte: Uml
+permalink: /cheatsheets/uml
+---
+
 ## Sources
 * uml-cheatsheet-0 : [ici][site] !
 

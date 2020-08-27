@@ -1,3 +1,9 @@
+---
+layout: default
+tilte: Ressources Perso
+permalink: /ressources_perso
+---
+
 # Nous déposerons les ressources persos que nous produirons ici.
 ## Types de ressources :
 Nous fournirons 2 documents rédigés par nos soins :

@@ -1,3 +1,9 @@
+---
+layout: default
+tilte: Ressources Externes Fichier
+permalink: /ressources_externes/fichier
+---
+
 # Sources des fichiers
 ## Règles de dépôt de ressource
 Les fichiers présents dans ce dossier sont des ressources que nous trouvons intéressantes au vu de nos cours.

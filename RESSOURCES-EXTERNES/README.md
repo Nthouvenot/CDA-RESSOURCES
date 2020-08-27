@@ -1,3 +1,9 @@
+---
+layout: default
+tilte: Ressources Externes
+permalink: /ressources_externes
+---
+
 # Nous déposerons les ressources externes que nous trouvons ici.
 ## Types de ressources :
 Nous distinguerons 2 grands types de ressources :

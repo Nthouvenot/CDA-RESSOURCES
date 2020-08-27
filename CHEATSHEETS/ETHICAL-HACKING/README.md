@@ -1,3 +1,9 @@
+---
+layout: default
+tilte: Ethical hacking
+permalink: /cheatsheets/ethical_hacking
+---
+
 ## Sources
 * ethical-hacking-cheatsheet-0 : [Part-1][EH-0] !
 
