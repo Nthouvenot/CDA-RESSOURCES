@@ -1,5 +1,12 @@
+---
+layout: default
+tilte: CheatSheets
+permalink: /cheatsheets/
+---
 # Nous déposerons les cheatsheets que nous trouverons ici.
+
 ## Convention de nommage de la cheatsheet :
+
 * Les cheatsheets sont classées par thèmes (1 folder par techno).
 * Nom du thème
 * "cheasheet"

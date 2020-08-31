@@ -1,3 +1,9 @@
+---
+layout: home
+tilte: Home
+permalink: /
+---
+
 # CDA-COURS
 Ce dépôt a pour objectif de regrouper les ressources que chacun pense être utiles, propres et cohérentes avec les cours que nous suivons en CDA. 
 
@@ -19,5 +25,6 @@ Si vous avez besoin d’aide pour la gestion des branches avec git flow : [Cliqu
 
 
 ## Ressource ajoutée :
+
 Une fois la ressource ajoutée, et votre pull request merged sur la develop, vous pourrez supprimer votre branche.  
 Une update de la branche develop vers la master sera régulièrement fait par l'administrateur.

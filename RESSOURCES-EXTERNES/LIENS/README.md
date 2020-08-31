@@ -1,3 +1,9 @@
+---
+layout: default
+tilte: Ressources Externes Liens
+permalink: /ressources_externes/liens
+---
+
 # Liens des sites
 
 Cette section regroupera les liens des sites qui sont en rapport avec notre veille techno des sujets vus en cours.

@@ -1,0 +1,19 @@
+<nav id="menu">
+  <ul>
+    {% for item in site.data.navigation %}
+    <li class="title menu">
+      <a href="{% if(item.folder[0]) %}{{site.baseurl}}{{item.folder}}{{ item.link }}{% else %}{{site.baseurl}}{{ item.link }}{% endif %}"
+        {% if page.url == item.link %}style="color: red;"{% endif %}>
+        {{ item.name }}
+      </a>
+      {% if item.cat[0] %}
+      <ul id="sub-menu">
+        {% for subentry in item.cat %}
+        <li><a href="{{site.baseurl}}{{ subentry.link }}" {% if page.url == subentry.link %}style="color: red;"{% endif %}>{{ subentry.name }}</a></li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</nav>

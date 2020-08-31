@@ -1,0 +1,10 @@
+{% include header.html %}
+<section>
+    <div id="title">
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+    </div>
+    <hr />
+    {{ content }}
+</section>
+{% include footer.html %}

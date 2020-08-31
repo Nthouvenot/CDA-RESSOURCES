@@ -1,3 +1,9 @@
+---
+layout: default
+tilte: Mindmaps
+permalink: /mindmaps
+---
+
 # Nous déposerons les mindmaps que nous réalisons ici.
 ## Convention de nommage de la mindmap :
 * Tous les mots en minuscules séparés par des tirets.

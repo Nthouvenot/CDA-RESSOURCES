@@ -9,7 +9,7 @@ name: syn gh-pages
 
 on:
   push:
-    branches: [ develop ]
+    branches: [ master ]
 
 jobs:
   sync-branches:

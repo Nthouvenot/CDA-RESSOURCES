@@ -1,0 +1,44 @@
+- name: Home
+  link: /
+- name: CheatSheets
+  link: /cheatsheets
+  folder: CheatSheets
+  cat:
+    - name: Ethical hacking
+      link: /cheatsheets/ethical_hacking
+    - name: Html
+      link: /cheatsheets/html
+    - name: Js
+      link: /cheatsheets/js
+    - name: NodeJs
+      link: /cheatsheets/nodejs
+    - name: uml
+      link: /cheatsheets/uml
+- name: Mindmaps
+  link: /mindmaps
+- name: Ressources-externes
+  link: /ressources_externes
+  folder: ressources_externes
+  cat:
+    - name: Fichier
+      link: /ressources_externes/fichier
+    - name: Liens
+      link: /ressources_externes/liens
+- name: Ressources-perso
+  link: /ressources_perso
+  cat:
+    - name: C#
+      link: /ressources_perso/c#
+    - name: Git
+      link: /ressources_perso/git
+    - name: Office
+      link: /ressources_perso/office
+- name: Video
+  link: /video
+  cat:
+    - name: Cours Mickaël
+      link: /video/cours_mickael
+    - name: Autres
+      link: /video/autres
+- name: About
+  link: /about

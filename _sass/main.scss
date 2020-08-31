@@ -1,0 +1,111 @@
+#header {
+  #menu {
+            
+    ul:not(#sub-menu) > li:first-child a {
+      border-radius: 2px 0 0 2px;
+    }
+
+    ul:not(#sub-menu) > li:last-child a {
+      border-radius: 0 2px 2px 0;
+    }
+  }
+
+  #sub-menu {
+    display: none;
+    position: absolute;
+    z-index: 1;
+    padding: 0;
+
+    a {
+      margin-top: 0;
+      float: none;
+      display: block;
+      text-align: left;
+    }
+  }
+
+  .menu:hover #sub-menu {
+    display: block;
+  }
+
+  nav {
+    max-width: 765px;
+    background: rgba(0, 0, 0, 0);
+    margin: 0 auto 0 auto;
+    padding: 0 10px;
+
+    ul {
+      margin: 0 0 5px;
+
+      li {
+        line-height: 0;
+        a {
+          border-radius: 0;
+          background: linear-gradient(#93bd20, #659e10);
+          box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.3),
+            4px 3px 7px 0px rgba(0, 0, 0, 0.7);
+          color: rgb(255, 255, 255);
+        }
+        &.title {
+          float: left;
+          margin-right: 0;
+          font-size: 11px;
+        }
+      }
+    }
+  }
+}
+
+#repo {
+  li {
+    font-family: "OpenSansLight", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    list-style: none;
+    display: inline;
+    color: white;
+    line-height: 50px;
+    text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.2);
+    font-size: 14px;
+
+    a {
+      color: white;
+      border: 1px solid #5d910b;
+      background: linear-gradient(#93bd20, #659e10);
+      border-radius: 2px;
+      box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.3),
+        0px 3px 7px rgba(0, 0, 0, 0.7);
+
+      background-color: #93bd20;
+      padding: 10px 12px;
+      margin-top: 6px;
+      line-height: 14px;
+      font-size: 14px;
+      display: inline-block;
+      text-align: center;
+
+      &:hover {
+        background: linear-gradient(#749619, #527f0e);
+        background-color: #659e10;
+        border: 1px solid #527f0e;
+        box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.2),
+          0px 1px 0px rgba(0, 0, 0, 0);
+      }
+    }
+
+    &.fork {
+      float: left;
+      margin-left: 0px;
+    }
+
+    &.downloads {
+      float: right;
+      margin-left: 6px;
+    }
+
+    &.title {
+      float: right;
+      margin-right: 10px;
+      font-size: 11px;
+    }
+  }
+}
