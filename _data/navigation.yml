@@ -31,6 +31,8 @@
       link: /ressources_perso/c#
     - name: Git
       link: /ressources_perso/git
+    - name: Github
+      link: /ressources_perso/github
     - name: Office
       link: /ressources_perso/office
 - name: Video
@@ -38,6 +40,8 @@
   cat:
     - name: Cours Mickaël
       link: /video/cours_mickael
+    - name: Cours Franck
+      link: /video/cours_franck
     - name: Autres
       link: /video/autres
 - name: About
