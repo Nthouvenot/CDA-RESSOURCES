@@ -9,6 +9,12 @@ Ce dépôt a pour objectif de regrouper les ressources que chacun pense être ut
 
 **Merci de lire chaque README.md de chaque dossier avant de push quelque chose. Les procédures sont données à chaque fois.**
 
+## Lien du dépôt en site web
+
+* [Lien du dépôt en version site web][site_01]
+
+[site_01]: https://kyweez.github.io/CDA-RESSOURCES/
+
 ## Avant d'ajouter une ressource :
 Avant d'ajouter une ressource, merci de s'assurer de sa pertinence, et de vérifier si elle n'est pas déjà disponible.  
 Si cette ressource est rédigée par vous-même et que quelqu’un d'autre a déjà traité le sujet, pourquoi ne pas proposer des modifications/améliorations a ce qui existe déjà.  
@@ -19,9 +25,9 @@ Si cette ressource est rédigée par vous-même et que quelqu’un d'autre a dé
 Avant de proposer une modification ou un ajout, merci de créer une branche vous appartenant, copie de la branche develop. Une fois que vous avez déposé la ressource, il suffit de faire un pull request de cette même branche vers la branche develop.  
 Une fois la pull request effectuée, il faut 2 reviews pour valider le merge vers la branche develop. De manière à ce que ça aille plus vite, ne pas hésiter à designer des reviewers.  
 
-Si vous avez besoin d’aide pour la gestion des branches avec git flow : [Cliquez ici][site0] !
+Si vous avez besoin d’aide pour la gestion des branches avec git flow : [Cliquez ici][site_02] !
 
-[site0]: https://github.com/kyweez/CDA-RESSOURCES/blob/master/RESSOURCES-PERSO/GIT/VERSIONS-PDF/git-gestion-de-branche-avec-flow.pdf
+[site_02]: https://github.com/kyweez/CDA-RESSOURCES/blob/master/RESSOURCES-PERSO/GIT/VERSIONS-PDF/git-gestion-de-branche-avec-flow.pdf
 
 
 ## Ressource ajoutée :
