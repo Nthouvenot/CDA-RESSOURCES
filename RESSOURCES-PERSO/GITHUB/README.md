@@ -6,7 +6,7 @@ permalink: /ressources_perso/github
 
 # Liens des documents perso
 
-Cette section regroupera les liens des sites qui sont en rapport avec notre veille techno des sujets vus en cours.
+Cette section regroupera des documents écrits par nos soins qui sont en rapport avec notre veille techno des sujets vus en cours.
 **Merci de créer un titre de thème (de niveau 2) s'il n'existe pas déjà**
 
 * Créer ensuite un titre de niveau 3 pour le sous-thème de la vidéo
