@@ -1,7 +1,7 @@
 ---
 layout: default
-tilte: GITHUB
-permalink: /ressources_perso/github
+tilte: C#
+permalink: /ressources_perso/C#
 ---
 
 # Liens des documents perso
@@ -13,12 +13,12 @@ Cette section regroupera des documents écrits par nos soins qui sont en rapport
 * Créer un petit descriptif du site (1 ligne ou 2)
 * Insérer le lien  
 
-## Github
+## OFFICE
 
-### Intergation Continue
+### Office_astuces
 
-* lien-doc : [Version Word][github-01] et [Version PDF][github-02] !
+* lien-doc : [Version Word][OFFICE-01] et [Version PDF][OFFICE-02] !
 
-[github-01]: /RESSOURCES-PERSO/GITHUB/VERSION-DOC/pseudo_integration_continue.docx
+[OFFICE-01]: OFFICE/VERSIONS-DOC/office-astuces.docx
 
-[github-02]: /RESSOURCES-PERSO/GITHUB/VERSION-PDF/pseudo_integration_continue.pdf
+[OFFICE-02]: OFFICE/VERSIONS-PDF/office-astuces.pdf

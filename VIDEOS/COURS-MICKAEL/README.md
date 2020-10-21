@@ -12,6 +12,27 @@ Cette section regroupera les liens des vidéos enregistrées pendant les cours a
 * Date de la vidéo
 * Insérer le lien
 
+## SQL
+### Partie 1 - Views
+Présentation des vues en SQL (et des jointures) 
+**Date : 29 Septembre 2020**
+* Vidéo : [Regarder ici][sql-00] !
+
+[sql-00]: https://media.arfp.eu/2005/2020-09-29%2014-30-51-160.mp4
+
+### Partie 2 - Procédures stockées 
+Création et utilisation des procédures stockées
+**Date : 30 Septembre 2020**
+* Vidéo : [Regarder ici][sql-01] !
+
+[sql-01]: https://media.arfp.eu/2005/2020-09-30%2009-07-50-298.mp4
+
+### Partie 3 - Triggers
+Création et utilisation des déclencheurs
+**Date : 01 Octobre 2020**
+* Vidéo : [Regarder ici][sql-02] !
+
+[sql-02]: https://media.arfp.eu/2005/2020-10-01%2009-22-11-765.mp4
 
 ## JS
 ### Manipulation de classes - Partie 1

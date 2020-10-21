@@ -1,7 +1,7 @@
 ---
 layout: default
-tilte: GITHUB
-permalink: /ressources_perso/github
+tilte: Windows
+permalink: /ressources_perso/windows
 ---
 
 # Liens des documents perso
@@ -13,12 +13,12 @@ Cette section regroupera des documents écrits par nos soins qui sont en rapport
 * Créer un petit descriptif du site (1 ligne ou 2)
 * Insérer le lien  
 
-## Github
+## OFFICE
 
-### Intergation Continue
+### Office_astuces
 
-* lien-doc : [Version Word][github-01] et [Version PDF][github-02] !
+* lien-doc : [Version Word][WIN-01] et [Version PDF][WIND-02] !
 
-[github-01]: /RESSOURCES-PERSO/GITHUB/VERSION-DOC/pseudo_integration_continue.docx
+[WIN-01]: OFFICE/VERSIONS-DOC/windows-astuces.docx
 
-[github-02]: /RESSOURCES-PERSO/GITHUB/VERSION-PDF/pseudo_integration_continue.pdf
+[WIN-02]: OFFICE/VERSIONS-PDF/windows-astuces.pdf
