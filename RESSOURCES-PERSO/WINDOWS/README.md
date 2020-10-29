@@ -1,7 +1,7 @@
 ---
 layout: default
-tilte: Office
-permalink: /ressources_perso/office
+tilte: Windows
+permalink: /ressources_perso/windows
 ---
 
 # Liens des documents perso
@@ -17,8 +17,8 @@ Cette section regroupera des documents écrits par nos soins qui sont en rapport
 
 ### Office_astuces
 
-* lien-doc : [Version Word][OFFICE-01] et [Version PDF][OFFICE-02] !
+* lien-doc : [Version Word][WIN-01] et [Version PDF][WIND-02] !
 
-[OFFICE-01]: OFFICE/VERSIONS-DOC/office-astuces.docx
+[WIN-01]: OFFICE/VERSIONS-DOC/windows-astuces.docx
 
-[OFFICE-02]: OFFICE/VERSIONS-PDF/office-astuces.pdf
+[WIN-02]: OFFICE/VERSIONS-PDF/windows-astuces.pdf
